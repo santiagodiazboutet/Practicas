@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521835721 source:v:\programacion_laboratorio\ghbecerra\labo_clase1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1521837944 source:c:\test\ghbecerra\labo_clase1\main.c
+	<stdio.h>
+	<stdlib.h>
+
